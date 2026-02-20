@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+virtual/
+
+# Data (raw/intermediate outputs)
+data/
+
+# Logs and local files
+*.log
+.DS_Store
+Thumbs.db
+.env
+.env.*
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Jupyter
+*.nbconvert.ipynb
+# claude
+CLAUDE.md 
